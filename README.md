@@ -1,4 +1,5 @@
 ## 🧑‍💻 I'm a school tech who aspires to be a computer science teacher
+- 👾 I made a [space-themed arcade shooter](https://github.com/frankiebry/star-hero) from watching (ClearCode's tutorials)[https://www.youtube.com/@ClearCode] 
 - 🔭 I’m currently working on my [text based adventure game](https://github.com/frankiebry/text-based-adventure/).
 - 🌱 I’m currently reading Python for Everybody for the Intro CS course in OSSU.
 - 💻 After PY4E I plan to return to the Odin Project and freeCodeCamp for Javscript, and create a chrome extension to automate writing tickets.
