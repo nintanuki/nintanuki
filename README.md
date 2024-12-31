@@ -1,19 +1,10 @@
-## Hi there 👋
-
-<!--
-**frankiebry/frankiebry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 I'm a school tech who aspires to be a computer science teacher
+- 🔭 I’m currently working on my [text based adventure game](https://github.com/frankiebry/text-based-adventure/).
+- 🌱 I’m currently reading Python for Everybody for the Intro CS course in OSSU.
+- 💻 After PY4E I plan to return to the Odin Project and freeCodeCamp for Javscript, and create a chrome extension to automate writing tickets.
+- 🤔 I’m looking for any kind of feedback on improving my code or my learning process.
+- 🕹️ I love video games and want to make my own games as a hobby.
+- 🎹 I also love music and aspire to learn to play the piano and compose music for games.
 
 ## :trophy: My Github Stats:
 <div>
