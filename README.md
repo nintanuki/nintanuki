@@ -11,5 +11,5 @@
 ## :trophy: My Github Stats:
 <div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nintanuki&count_private=true&hide=php&theme=tokyonight">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankiebry&layout=compact&hide=php&theme=tokyonight" /></a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nintanuki&layout=compact&hide=php&theme=tokyonight" /></a>
 </div>
