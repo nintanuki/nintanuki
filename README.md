@@ -1,4 +1,4 @@
-## 🧑‍💻 I'm a school tech who aspires to become a computer science teacher
+## 🧑‍💻 I'm a computer science teacher
 - 👾 I made a [space-themed arcade shooter](https://github.com/frankiebry/star-hero) from watching [ClearCode tutorials](https://www.youtube.com/@ClearCode).
 - 🏒 I’m working on an [air hockey game](https://github.com/nintanuki/pygame-air-hockey) made in Pygame.
 - 🎓 I’m currently taking [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015) as part of [OSSU](https://github.com/ossu/computer-science).
