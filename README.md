@@ -1,11 +1,8 @@
 ## 🧑‍💻 I'm a computer programming teacher
 - 👾 I made a [space-themed arcade shooter](https://github.com/frankiebry/star-hero) from watching [ClearCode tutorials](https://www.youtube.com/@ClearCode).
-- 🏒 I’m working on an [air hockey game](https://github.com/nintanuki/pygame-air-hockey) made in Pygame.
-- 🎓 I’m currently taking [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015) as part of [OSSU](https://github.com/ossu/computer-science).
-- 📖 I’m currently reading [JavaScript Crash Course by Nick Morgan](https://nostarch.com/javascript-crash-course).
-- 💻 After that I will return to the [Odin Project](https://www.theodinproject.com/) and freeCodeCamp for Javascript.
+- I'm currently working on a survival dungeon treasure hunting game.
 - 🤔 I’m looking for any kind of feedback on improving my code or my learning process.
-- 🕹️ I love video games and want to make my own games as a hobby.
+- 🕹️ I love video games and like to my own games as a hobby.
 - 🎹 I also love music and aspire to learn to play the piano and compose music for games.
 
 ## :trophy: My Github Stats:
