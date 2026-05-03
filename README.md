@@ -1,9 +1,8 @@
-## 🧑‍💻 I'm a computer programming teacher
-- 👾 I learned how to use Pygame and made a [space-themed arcade shooter](https://github.com/nintanuki/star-hero) from watching [ClearCode tutorials](https://www.youtube.com/@ClearCode).
-- 🪏 I'm currently working on a [turn-based dungeon crawler](https://github.com/nintanuki/dig-adventure).
-- 🤔 I’m looking for any kind of feedback on improving my code or my learning process.
-- 🕹️ I love video games and like to my own games as a hobby.
-- 🎹 I also love music and aspire to learn to play the piano and compose music for games.
+## 🧑‍💻 I'm an IT and computer programming teacher
+- 👾 I learned how to write games using Pygame and made a [space-themed arcade shooter](https://github.com/nintanuki/star-hero) from watching [ClearCode tutorials](https://www.youtube.com/@ClearCode).
+- 🪏 I also made a [turn-based dungeon crawler](https://github.com/nintanuki/dig-adventure).
+- 🕹️ I created a [launcher](https://github.com/nintanuki/arcade-cabinet) for these games as well as anything made by a student in Pygame.
+- 🎓 Right now I'm working on educational games for [building logic gates](https://github.com/nintanuki/circuit-builder) and [practicing typing](https://github.com/nintanuki/typing-hero). Also made in Pygame.
 
 ## :trophy: My Github Stats:
 <div>
