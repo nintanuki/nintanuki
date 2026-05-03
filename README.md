@@ -1,10 +1,15 @@
-## 🧑‍💻 I'm an IT and computer programming teacher
-- 👾 I learned how to code games using Pygame and made a [space-themed arcade shooter](https://github.com/nintanuki/star-hero) from watching [ClearCode tutorials](https://www.youtube.com/@ClearCode).
-- 🪏 I also made a [turn-based dungeon crawler](https://github.com/nintanuki/dig-adventure).
-- 🕹️ I created a [launcher](https://github.com/nintanuki/arcade-cabinet) for these games as well as anything made by a student in Pygame. I love games and strongly believe in gamification as an incentive to learn (the Duolingo owl has been yelling at me).
-- 🧑‍🏫 Right now I'm working on educational games for [building logic gates](https://github.com/nintanuki/circuit-builder) and [practicing typing](https://github.com/nintanuki/typing-hero). Also made in Pygame.
-- 🎹 I also enjoy soundtracks, classical and electronic music, and like to practice the piano and compose music for games.
-- 🎓I still have a lot to learn and consider myself a life-long student. If you have any suggestions, critiques or feedback please tell me.
+## 👨‍🏫 IT Teacher | Hobby Programmer | Lifelong Learner
+
+I teach IT and coding, and in my spare time I enjoy building small projects with Python and Pygame.
+
+- 👾 Learned game programming by building a [space-themed arcade shooter](https://github.com/nintanuki/star-hero)
+- 🗡️ Made a small [turn-based dungeon crawler](https://github.com/nintanuki/dig-adventure)
+- 🚀 Built a [launcher](https://github.com/nintanuki/arcade-cabinet) for my own projects and student-made Pygame games 
+- 🧠 Recently started exploring educational games for teaching [logic gates](https://github.com/nintanuki/circuit-builder) and [typing](https://github.com/nintanuki/typing-hero)
+- 🎵 Enjoy music, game soundtracks, and occasionally making music of my own
+- 🎓 Always learning, experimenting, and improving
+
+I’m especially interested in **using games to make learning more engaging**.
 
 ## :trophy: My Github Stats:
 <div>
