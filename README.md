@@ -2,14 +2,14 @@
 
 I teach IT and coding, and in my spare time I enjoy building small projects with Python and Pygame.
 
-- 👾 Learned game programming by building a [space-themed arcade shooter](https://github.com/nintanuki/star-hero)
-- 🗡️ Made a small [turn-based dungeon crawler](https://github.com/nintanuki/dig-adventure)
-- 🚀 Built a [launcher](https://github.com/nintanuki/arcade-cabinet) for my own projects and student-made Pygame games 
-- 🧠 Recently started exploring educational games for teaching [logic gates](https://github.com/nintanuki/circuit-builder) and [typing](https://github.com/nintanuki/typing-hero)
-- 🎵 Enjoy music, game soundtracks, and occasionally making music of my own
-- 🎓 Always learning, experimenting, and improving
+- 👾 Learned object-oriented programming from building a [space-themed arcade shooter](https://github.com/nintanuki/star-hero)
+- 🗡️ Made a small [turn-based dungeon crawler](https://github.com/nintanuki/dig-adventure) from a text based game idea I had.
+- 🚀 Built a [launcher](https://github.com/nintanuki/arcade-cabinet) for my own games and student-made Pygame games 
+- 🧠 Recently started exploring making educational games for teaching [logic gates](https://github.com/nintanuki/circuit-builder) and [typing](https://github.com/nintanuki/typing-hero)
+- 🎵 Enjoy music, soundtracks, and occasionally making music of my own
+- 🎓 Life-long learner. Always curious, experimenting, and trying to improve myself
 
-I’m especially interested in **using games to make learning more engaging**.
+I like to use gamification and video game analogies to make learning more engaging.
 
 ## :trophy: My Github Stats:
 <div>
