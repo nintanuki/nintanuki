@@ -9,7 +9,7 @@ I teach IT and coding, and in my spare time I enjoy building small projects with
 - 🎵 Enjoy music, soundtracks, and occasionally making music of my own.
 - 🎓 Life-long learner. Always curious, experimenting, and trying to improve myself.
 
-I like to use gamification and video game analogies to make learning more engaging. My favorite language is Python and my favorite library is Pygame, but I want to branch out into other things.
+I like to use gamification and video game analogies to make learning more engaging. Speaking from my own experience, the best way to learn is by doing and short term rewards keep me engaged. My favorite language is Python and my favorite library is Pygame, but I want to branch out into other kinds of projects.
 
 ## :trophy: My Github Stats:
 <div>
